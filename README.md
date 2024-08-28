@@ -14,7 +14,7 @@
   <h1>FindMailWin</h1>
   <p>
     FindMailWin is a simple Windows Desktop application written in C#, that extracts E-Mail-Addresses from any URL you enter.<br>
-    Based on <a href="https://github.com/druffko/FindMailWin">druffko/FindMailWin</a>
+    Based on <a href="https://github.com/druffko/email-extractor">druffko/email-extractor</a>
   </p>
 </div>
 
