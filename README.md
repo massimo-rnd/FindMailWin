@@ -1,28 +1,25 @@
 # Important Notice
-Please note that the development of this codebase has been surpassed by [KAELUS](https://github.com/druffko/kaelus). As a result, FindMailWin should be regarded as outdated since this code is not receiving any updates.
+Please note that the development of this codebase has been surpassed by [KAELUS](https://github.com/massimo-rnd/kaelus). As a result, FindMailWin should be regarded as outdated since this code is not receiving any updates.
 
-[KAELUS](https://github.com/druffko/kaelus) offers the extended functionality and will be maintained with future updates and support for newer .NET Versions.
-
-
-![Repo-Image](https://druffko.gg/github-images/findmailwin.png)
+[KAELUS](https://github.com/massimo-rnd/kaelus) offers the extended functionality and will be maintained with future updates and support for newer .NET Versions.
 
 <div align="center">
 
-![GitHub release (latest by date including pre-releases)](https://img.shields.io/github/v/release/druffko/FindMailWin?include_prereleases)
+![GitHub release (latest by date including pre-releases)](https://img.shields.io/github/v/release/massimo-rnd/FindMailWin?include_prereleases)
 
 ![.NET Version](https://img.shields.io/badge/.NET-7.0-brightgreen)
-![GitHub last commit](https://img.shields.io/github/last-commit/druffko/FindMailWin)
+![GitHub last commit](https://img.shields.io/github/last-commit/massimo-rnd/FindMailWin)
 
   <br>
 
-  ![GitHub All Releases](https://img.shields.io/github/downloads/druffko/FindMailWin/total)
-  ![GitHub closed issues](https://img.shields.io/github/issues-closed/druffko/FindMailWin)
-  ![GitHub issues](https://img.shields.io/github/issues/druffko/FindMailWin)
+  ![GitHub All Releases](https://img.shields.io/github/downloads/massimo-rnd/FindMailWin/total)
+  ![GitHub closed issues](https://img.shields.io/github/issues-closed/massimo-rnd/FindMailWin)
+  ![GitHub issues](https://img.shields.io/github/issues/massimo-rnd/FindMailWin)
   
   <h1>FindMailWin</h1>
   <p>
     FindMailWin is a simple Windows Desktop application written in C#, that extracts E-Mail-Addresses from any URL you enter.<br>
-    Based on <a href="https://github.com/druffko/email-extractor">druffko/email-extractor</a>
+    Based on <a href="https://github.com/massimo-rnd/email-extractor">massimo-rnd/email-extractor</a>
   </p>
 </div>
 
@@ -54,7 +51,7 @@ FindMailWin is a simple Windows Desktop application written in C#, that extracts
 
 ### Download the latest version
 
-To start off, please head to the [releases page](https://github.com/druffko/FindMailWin/releases) and download a pre-built .app package.
+To start off, please head to the [releases page](https://github.com/massimo-rnd/FindMailWin/releases) and download a pre-built .app package.
 
 *If you don't trust me for some reason, feel free to download the latest released source code and build it your self.*
 
@@ -94,8 +91,8 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Contact
 
-- **druffko** - [@druffko](https://twitter.com/druffko) - hi@druffko.gg
-- **Project Link** - https://github.com/druffko/FindMailWin
+- **massimo-rnd** - [@massimo_rnd](https://x.com/massimo_rnd) - hi@massimo.gg
+- **Project Link** - https://github.com/massimo-rnd/FindMailWin
 
 Feel free to reach out if you have any questions or suggestions!
 
